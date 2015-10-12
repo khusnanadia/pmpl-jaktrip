@@ -1,0 +1,43 @@
+//------------misalkan mau nampilin ini-----------
+
+	$this->load->view('header', $data);
+	$this->load->view('homeUI',$data);
+	$this->load->view('footer');
+
+
+//------------------------------------------------
+
+//-----------di atas itu diblok lalu di ganti dengan yang dibawah ini -------------------
+
+$this->load->helper('cookie');
+$this->user = $this->facebook->getUser();
+if($this->user)
+{
+
+	$data['user_profile'] = $this->facebook->api('/me/');
+	$first_name = $data['user_profile']['first_name'];
+	$foto_facebook = "https://graph.facebook.com/".$data['user_profile']['id']."/picture";
+	if(get_cookie('username')!=null)
+	{
+		$this->load->view('header', $data); //sama kayak yang mau ditampilin sebelumnya, ditambah dengan ditambahin $data
+		$this->load->view('homeUI',$data); //sama kayak yang mau ditampilin sebelumnya
+		$this->load->view('footer'); //sama kayak yang mau ditampilinn sebelumnya
+	}
+	else
+	{
+		setcookie("username_facebook", $data['user_profile']['first_name'], time()+3600, '/');
+        setcookie("username",$data['user_profile']['id'], time()+3600, '/');
+		setcookie("photo_facebook",$foto_facebook,time()+3600, '/');
+		setcookie("is_admin",0,time()+3600,'/');
+		header('Location: '.base_url('successLoginFB'));
+	}
+}
+else
+{
+	$data['login_url'] = $this->facebook->getLoginUrl();
+	$this->load->view('header', $data); //sama kayak yang mau ditampilin sebelumnya, ditambah dengan ditambahin $data
+	$this->load->view('homeUI',$data); //sama kayak yang mau ditampilin sebelumnya
+	$this->load->view('footer'); //sama kayak yang mau ditampilinn sebelumnya
+}
+
+//----------------------------------------------------------------------------

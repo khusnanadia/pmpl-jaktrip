@@ -1,0 +1,57 @@
+[22-May-2015 00:36:59 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k8544373/public_html/JAKtrip/application/views/homeUI.php on line 189
+[22-May-2015 00:37:11 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k8544373/public_html/JAKtrip/application/views/homeUI.php on line 189
+[22-May-2015 09:51:31 America/New_York] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/k8544373/public_html/JAKtrip/application/views/homeUI.php on line 417
+[22-May-2015 10:15:06 America/New_York] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/k8544373/public_html/JAKtrip/application/views/ViewTripUi.php on line 288
+[22-May-2015 10:22:13 America/New_York] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/k8544373/public_html/JAKtrip/application/views/homeUI.php on line 417
+[22-May-2015 11:31:45 America/New_York] PHP Fatal error:  Call to a member function getTouristAttraction() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 20
+[22-May-2015 11:35:06 America/New_York] PHP Fatal error:  Call to a member function getTouristAttraction() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 39
+[22-May-2015 11:45:29 America/New_York] PHP Fatal error:  Call to a member function where() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 334
+[22-May-2015 19:48:33 America/New_York] PHP Fatal error:  Call to a member function where() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 334
+[22-May-2015 19:54:35 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 368
+[22-May-2015 22:08:40 America/New_York] PHP Fatal error:  Call to a member function tourAttr_get() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/ManageTourAttrCtr.php on line 485
+[22-May-2015 22:09:30 America/New_York] PHP Fatal error:  Call to a member function tourAttr_get() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/ManageTourAttrCtr.php on line 485
+[22-May-2015 22:09:36 America/New_York] PHP Fatal error:  Call to a member function getTouristAttraction() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/ManageTourAttrCtr.php on line 495
+[22-May-2015 22:09:59 America/New_York] PHP Fatal error:  Call to a member function getTouristAttraction() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/ManageTourAttrCtr.php on line 495
+[24-May-2015 00:54:53 America/New_York] PHP Fatal error:  Call to a member function getTouristAttraction() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 135
+[24-May-2015 00:56:11 America/New_York] PHP Fatal error:  Call to a member function getTouristAttraction() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 135
+[24-May-2015 01:46:29 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 382
+[24-May-2015 01:53:25 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 382
+[24-May-2015 02:37:41 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 382
+[25-May-2015 00:10:22 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 382
+[25-May-2015 00:22:58 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 382
+[25-May-2015 01:30:42 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 382
+[25-May-2015 01:35:49 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 871
+[25-May-2015 01:35:59 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 809
+[25-May-2015 01:36:30 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 871
+[25-May-2015 01:38:26 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 809
+[25-May-2015 01:39:35 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 871
+[25-May-2015 01:39:46 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 809
+[25-May-2015 01:39:59 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 871
+[25-May-2015 01:40:57 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 809
+[25-May-2015 04:37:39 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 763
+[25-May-2015 04:41:20 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 763
+[25-May-2015 05:03:27 America/New_York] PHP Fatal error:  Call to a member function decrementVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 1152
+[25-May-2015 05:03:54 America/New_York] PHP Fatal error:  Call to a member function decrementVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 1152
+[25-May-2015 05:05:50 America/New_York] PHP Fatal error:  Call to a member function decrementVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 1152
+[26-May-2015 23:12:00 America/New_York] PHP Fatal error:  Call to a member function decrementVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 1152
+[26-May-2015 23:13:53 America/New_York] PHP Fatal error:  Call to a member function decrementVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/UsersCtr.php on line 1152
+[26-May-2015 23:27:40 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k8544373/public_html/JAKtrip/application/views/ViewTripUi.php on line 268
+[27-May-2015 00:28:46 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/k8544373/public_html/JAKtrip/application/config/routes.php on line 237
+[27-May-2015 01:03:15 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:03:24 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:03:31 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:03:35 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:03:39 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:03:44 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:03:55 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:04:15 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:04:18 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:05:14 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:05:21 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:05:26 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[27-May-2015 01:05:30 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/k8544373/public_html/JAKtrip/application/views/footer.php on line 1608
+[30-May-2015 19:21:43 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 414
+[30-May-2015 19:25:34 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 445
+[30-May-2015 19:30:15 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 414
+[30-May-2015 19:33:56 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 391
+[31-May-2015 14:28:24 America/New_York] PHP Fatal error:  Call to a member function updateVisitor() on a non-object in /home/k8544373/public_html/JAKtrip/application/controllers/PlaceCtr.php on line 414
